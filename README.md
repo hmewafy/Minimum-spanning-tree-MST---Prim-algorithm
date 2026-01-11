@@ -1,1 +1,1 @@
-# Minimum spanning tree-MST---Prim-s-algorithm
+# Minimum spanning tree-MST---Prim's-algorithm
